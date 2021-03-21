@@ -33,7 +33,7 @@ start rpme
 - `<text>`: **string** 
 
 # Compatibility
-OneSync **is required** to make this script work as it obtains player coordinates server-side.
+OneSync **is supported**.
 
 # Known bugs
 None :-) Feel free to submit an issue on GitHub if you find any.
